@@ -1,0 +1,12 @@
+Ultimamente tenho gostado bastante do curso de Desenvolvimento de Sistemas, tanto pelo fato de ter descoberto
+que gosto de programação, quanto pelo que venho aprendendo no curso em si, como vários tipos de linguagens,
+e como saber a melhor forma de usar cada uma pra aplicar da melhor maneira em um projeto. Tudo isso sem levar
+em consideração a área abrangente no mercado de trabalho que este curso pode me proporcionar estar, sendo que,
+hoje em dia, nesta área em específico, há mais procura por mão de obra qualificada do que mão de obra
+suficiente para suprir por completo essa demanda.
+
+Neste curso, uma melhroria que eu acho interessante seria a inserção da linguagem de programação Python, ja
+que vejo em muito lugares, e, muitas pessoas também, falando sobre tal linguagem e sua importância atualmente,
+se popularizando cada vez mais. Então, talvez seria interessante inserir este tipo de linguagem, mas de uma
+forma que nenhuma outra seja subtituída, como se realmente fosse algo a mais, não apenas uma troca de uma
+linguagem por outra.
