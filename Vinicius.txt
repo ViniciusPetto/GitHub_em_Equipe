@@ -5,6 +5,11 @@ em consideração a área abrangente no mercado de trabalho que este curso pode 
 hoje em dia, nesta área em específico, há mais procura por mão de obra qualificada do que mão de obra
 suficiente para suprir por completo essa demanda.
 
+Um problema que vejo no curso é sua duração de apenas 2 anos. Muitas coisas aparentam ser vistas muito
+superficialmente, e, muitas vezes, falta tempo para haver mais prática e explicação profunda sobre tal assunto,
+abordando todos os seus tópicos, podendo assim, ter um aprendizado plenamente completo sobre tudo o que o 
+curso possa oferecer.
+
 Neste curso, uma melhroria que eu acho interessante seria a inserção da linguagem de programação Python, ja
 que vejo em muito lugares, e, muitas pessoas também, falando sobre tal linguagem e sua importância atualmente,
 se popularizando cada vez mais. Então, talvez seria interessante inserir este tipo de linguagem, mas de uma
