@@ -1,4 +1,4 @@
-Ultimamente tenho gostado bastante do curso de Desenvolvimento de Sistemas, tanto pelo fato de ter descoberto
+﻿Ultimamente tenho gostado bastante do curso de Desenvolvimento de Sistemas, tanto pelo fato de ter descoberto
 que gosto de programação, quanto pelo que venho aprendendo no curso em si, como vários tipos de linguagens,
 e como saber a melhor forma de usar cada uma pra aplicar da melhor maneira em um projeto. Tudo isso sem levar
 em consideração a área abrangente no mercado de trabalho que este curso pode me proporcionar estar, sendo que,
@@ -18,3 +18,4 @@ linguagem por outra.
 
 *Modificação feita por Leonardo: Aprendo muito com as professoras do curso de desenvolvimento de sistemas*
 *Modificação feita por Matheus: Eu amo css*
+*Modificação feita por Pedro:As aulas são muitos boa, e bem explicada as professoras são boas, eu estou aprendendo muito sobre a matéria,  minhas expectativa são muito boas pra finalização do curso.*  
